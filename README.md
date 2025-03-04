@@ -15,3 +15,6 @@ Notice that the dashboard has a single tile
 * Review the column quality for the TotalProductCost column, and notice that 8% the rows are empty.
 
 <img width="480" alt="Screenshot 2025-02-25 at 08 28 47" src="https://github.com/user-attachments/assets/3497e441-5bbe-4a2c-adf1-3df0fef19328" />
+
+
+Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
